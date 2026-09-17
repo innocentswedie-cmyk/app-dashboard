@@ -1,0 +1,7 @@
+{
+  "name": "SupportPulse",
+  "description": "Real-time customer support dashboard with agent profile, phone system notifications, Gemini AI auto-resolver, and Recharts performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
